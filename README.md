@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atlas
-- 👀 I’m interested in Game Development, and Band
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Game Development, and Composition
+- 🌱 I’m currently learning LOVE
 - 💞️ I’m looking to collaborate on HELP
 - 📫 How to reach me uhhh discord maybe
 
